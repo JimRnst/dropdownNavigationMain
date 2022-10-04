@@ -1,5 +1,8 @@
 # Frontend Mentor - Intro section with dropdown navigation
 
+## _Live Server_
+[Live Server](https://jimrnst.github.io/dropdownNavigationMain/)
+
 ## PREVIEW DESIGN:
 - Desktop 1440p
 - Mobile 375p
